@@ -1,0 +1,2 @@
+rootProject.name='ResourceLoader'
+include ':app'
